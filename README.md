@@ -5,3 +5,11 @@
 Для перехода есть команда git checkout <name branch>
 
 something change
+
+del 
+som
+cat
+anything
+perfect
+bad
+each other
